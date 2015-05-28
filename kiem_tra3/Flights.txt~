@@ -1,0 +1,19 @@
+HAN="Ha Noi"
+SAG="Sai Gon"
+DAD="Da Nang"
+NHT="Nha Trang"
+DAL="Da Lat"
+VIN="Vinh"
+HUE="Hue"
+HAP="Hai Phong"
+NIB="Ninh Binh"
+THB="Thai Binh"
+HAN     SAG     2.0
+HAN     DAD     1.5
+DAD     NHT     1.0
+VIN     HUE     1.0
+NHT     HUE     2.5
+VIN     HAP     1.5
+SAG     NIB     3.0
+NIB     THB     2.5
+SAI
